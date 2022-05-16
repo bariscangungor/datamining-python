@@ -1,2 +1,4 @@
 # datamining-python
-My lecture notes for Data Mining, Management Information Systems
+Codes (Python) and slides for the graduate Data Mining course, Bogazici University MIS.
+
+In 2022, I revised the content and migrated from R to Python. Therefore, the beginning codes/slides are prepared to introduce Python in general with data structures.
