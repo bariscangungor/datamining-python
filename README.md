@@ -1,1 +1,1 @@
-Codes (Python) and slides are available. I revised the existing content and recently (this year) migrated from R to Python. Therefore, the beginning codes/slides are prepared to introduce Python in general with data structures.
+Codes (Python) and slides for the graduate Data Mining course, Bogazici University MIS.
